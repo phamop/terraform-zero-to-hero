@@ -1,3 +1,15 @@
+
+#secanrio 2
+
+/*
+ How to determined if any changes happened in the infrastructure  that are not made by Terraform.
+ Terrafrom refresh.
+ Resolution:  set up a lambda function that detect that change and send notification.
+*/
+
+
+/*
+
 # MIGRATION TO TERRAFORM & DRIFT DETECTION
 
 
@@ -16,13 +28,6 @@ import {
 # terraform plan
 #
 
-#secanrio 2
-
-/*
- How to determined if any changes happened in the infrastructure  that are not made by Terraform.
- Terrafrom refresh.
- Resolution:  set up a lambda function that detect that change and send notification.
 */
-
 
 https://youtu.be/-4IMy5ihiiU
